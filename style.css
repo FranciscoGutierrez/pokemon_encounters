@@ -1,0 +1,9 @@
+
+.normal-font  {font-family: 'Josefin Sans', sans-serif;}
+.title-font   {font-family: 'Raleway Dots', cursive;}
+.svg-overflow{overflow: visible;}
+.circle {border-radius: 50%;}
+.small  {width: 20px; height: 20px;}
+.day { background:  #3498db;}
+.night {background: #34495e;}
+.flex{display: flex}
